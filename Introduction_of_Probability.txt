@@ -1,0 +1,36 @@
+In this text file I would try to give baisc introduction of probability without going into the mathematical terms.
+
+So What is Probabilty?
+
+If we recall our elementary school for us it is just (favourable outcomes / Total number of Outcomes) or the definition would be Measure of Uncertaninty.
+
+But in real life we are surrounded by probabilities and we use it thousands of time in a day without knowing about it.
+For example - Don't we try to predict whether it would rain or not just by looking at the color of cloud?
+              You must have bet 50Rs on one of your friend during a running race.
+              We also try to predict the election result without having much data we just assume that this politician might win as he/she is popular.
+This list can go on but my idea is to get familiar with the concept of probability.
+
+How are we able to predict rain just by looking at the sky ?
+
+Over the years we had trained our mind that if the color of clouds are grey or dark grey then it is more likely to rain. This is called observation.
+The assumption( more likely to rain) is called probability model . (Probabilty model will be explained in depth in upcoming notes).
+
+In our life we had created many models like this without even knowing the definition of probabilty.
+
+So what now? Lets intrpret the probabilities.
+There are two ways to interpret them 1. Frequency interpretation 2. Subjective interpretation
+
+
+What is Frequency interpretation ? .
+
+Let's say that I am performing an experiment ( just for understading 1000 experiments) and after 1000th try I am able to say that or interpret that the following experiment is havng some kind of property.
+The probabilities of a given outcome of an experiment indicates the property of that outcome and property is obtained after continual repition of experiment.
+
+In much simpler words --> Probabilty of an event is proportion to the number of times it occurs.
+
+Subjective interpretation ?
+
+This type of interpretation is often favoured by decision makers as it is associated with persons belief.
+In this interpretation it is not taken as a property but as a statement about the beliefs of person who is quoting probabilty.
+
+There are many other interpretation of probabilty but these two are most commoan and basic.
