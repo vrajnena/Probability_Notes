@@ -1,0 +1,21 @@
+In this text file I am going to get familiar with some basic building blocks of Probabilty
+ This note mostly cointains definitions
+
+ Experiment - Any activity for which the outcome is not certain. Outcome is only known after the completion on Experiment.
+ example - Drawing a card from deck, determinig the child birth etc..
+
+ Sample Space - It is a set which contains all the possible outcomes of an experiment. Denoted by Ω .
+ Example - Tossing a coin so Ω ={Heads,tails}
+
+ Event  - Any subset E from sample Space.
+ example - Determining the child birth Ω={male,female}  the event E would be if the child is either male or female.
+ 
+ Some basic notation 
+ ω - outcome of a random experiment
+ Ω = {ω1,ω2,...ωn}
+ Subset of Ω is denoted by capital letters.
+
+ _
+ A= complement or composite event
+
+ Sure event or certain event - if an event contains all the possible outcome
